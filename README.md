@@ -24,6 +24,8 @@ or Windows:
 python site_blocker.py
 ```
 
+or change the extension to pyw and run it with Task Scheduler as a background process on Windows.
+
 ## Authors
 
 - **Ardit Sulce** - _Initial work_ - [The Python Mega Course: Build 10 Real World Applications](https://www.udemy.com/the-python-mega-course/)
